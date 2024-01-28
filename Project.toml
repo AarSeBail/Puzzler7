@@ -1,0 +1,7 @@
+name = "Puzzler7"
+uuid = "3b5fcfe7-d1f4-40b7-834e-881e19ef34bb"
+authors = ["ArSeBail <105328009+AarSeBail@users.noreply.github.com>"]
+version = "0.1.0"
+
+[deps]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
